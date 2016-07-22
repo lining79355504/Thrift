@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/TTG.run.dir/Server.cpp.o CMakeFiles/TTG.run.dir/TTG_constants.cpp.o CMakeFiles/TTG.run.dir/TTG_types.cpp.o CMakeFiles/TTG.run.dir/TTGService.cpp.o  -o TTG.run  -lthrift 
